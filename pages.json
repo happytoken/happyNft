@@ -1,0 +1,19 @@
+{
+	"pages": [
+		{
+			"path": "pages/loading",
+			"style": {
+				"navigationBarTitleText": "hldNft",
+				"navigationBarBackgroundColor": "#050b1d",
+				"navigationBarTextStyle": "white",
+				"backgroundColor": "#050b1d"
+			}
+		},
+		{
+			"path": "pages/protocol"
+		}
+    ],
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}

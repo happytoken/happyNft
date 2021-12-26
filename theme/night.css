@@ -1,0 +1,19 @@
+page{
+	background-color: #f1f1f1;
+}
+
+uni-toast{
+	z-index: 99999;
+}
+
+.ztext {
+	color: #1c61ff;
+}
+
+.ztext2 {
+	color: grey;
+}
+
+.zbg {
+	color: #1c61ff;
+}
